@@ -1,4 +1,4 @@
-# 40. spotkanie Data Community Bydgoszcz i Toruñ, 24.03.2019
+# 40. spotkanie Data Community Bydgoszcz i ToruÅ„, 24.03.2019
 
 
 
@@ -6,5 +6,5 @@ https://www.meetup.com/pl-PL/Data-Community-Bydgoszcz-i-Toru%C5%84/events/260529
 
 
 
-- Mariusz Wójcik: Poziomy izolacji w SQL Serwerze i niebezpieczeñstwa z nimi zwi¹zane
-- Andrzej Pyskir: Czy mo¿na nauczyæ komputer znajdowaæ budynki na zdjêciach satelitarnych?
+- Mariusz WÃ³jcik: Poziomy izolacji w SQL Serwerze i niebezpieczeÅ„stwa z nimi zwiÄ…zane
+- Andrzej Pyskir: Czy moÅ¼na nauczyÄ‡ komputer znajdowaÄ‡ budynki na zdjÄ™ciach satelitarnych?

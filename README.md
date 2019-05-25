@@ -1,4 +1,4 @@
-# 40. spotkanie Data Community Bydgoszcz i Toruń, 24.03.2019
+# 40. spotkanie Data Community Bydgoszcz i Toruń, 24.04.2019
 
 
 

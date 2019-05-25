@@ -1,0 +1,6 @@
+USE master
+
+IF EXISTS (	SELECT * FROM sys.databases	WHERE name = 'DemoDB')
+	DROP DATABASE DemoDB
+
+CREATE DATABASE DemoDB
